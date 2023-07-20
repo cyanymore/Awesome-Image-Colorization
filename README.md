@@ -116,10 +116,23 @@
 11. Masked and Adaptive Transformer for Exemplar Based Image Translation(arXiv 2023) [Pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.pdf) [Code](https://github.com/AiArt-HDU/MATEBIT)
 12. Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention(TIP 2023) [Pdf](https://ieeexplore.ieee.org/abstract/document/10183846) [Code](https://github.com/wd1511/PDNLA-Net)
 
+## <font color =red size=4>**ViT Colorization Networks**</font>
+1. Colorization Transformer(ICLR 2021) [Pdf](https://arxiv.org/pdf/2102.04432.pdf) [Code](https://github.com/Dorian25/colorization-transformer-experimental)
+2. ITTR Unpaired Image-to-Image Translation with Transformers(arXiv 2022) [Pdf](https://arxiv.org/pdf/2203.16015.pdf)
+3. InstaFormer Instance-Aware Image-to-Image Translation with Transformer(CVPR 2022) [Pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_InstaFormer_Instance-Aware_Image-to-Image_Translation_With_Transformer_CVPR_2022_paper.pdf) [Code](https://github.com/KU-CVLAB/InstaFormer)
+4. CyTran A cycle-consistent transformer with multi-level consistency for non-contrast to contrast CT translation(Neurocomputing 2023) [Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231223003181) [Code](https://github.com/Gid-Git/cyclic-transformer)
+5.  CSTGAN Cycle Swin Transformer GAN for Unpaired Infrared Image Colorization(CCRIS 2023) [Pdf](https://dl.acm.org/doi/abs/10.1145/3562007.3562053)
 
 
-() [Pdf]() [Code]()
 
+## <font color =red size=4>**Acknowledgments**</font>
+I would like to thank the researchers who dedicated time and effort to advance the field of automatic image colorization. This repository would not be possible without their open and scholarly contributions.
+
+
+## <font color =red size=4>**Disclaimer**</font>
+This repository summarizes colorization papers and collects related resources for educational and research purposes only. The papers and code are the intellectual property of the respective authors. If you wish to reproduce any content, please cite the original paper accordingly. The summaries provided reflect my understanding of these works. I cannot guarantee their accuracy or completeness. Please refer to the original published papers for authoritative information.
+
+This is not an official repository and is not affiliated with nor endorsed by any researchers or organizations. It is an independent effort to organize knowledge in the field of image colorization. Please open an issue if you would like any content removed or modified.
 
 
 
