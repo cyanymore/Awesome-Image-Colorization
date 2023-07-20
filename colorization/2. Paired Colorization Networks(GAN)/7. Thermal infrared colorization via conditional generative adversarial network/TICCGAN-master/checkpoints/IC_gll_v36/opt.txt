@@ -1,0 +1,45 @@
+----------------- Options ---------------
+             aspect_ratio: 1.0                           
+                batchSize: 1                             
+          checkpoints_dir: ./checkpoints                 
+                 dataroot: datasets/                     	[default: None]
+             dataset_mode: aligned                       
+               display_id: 1                             
+             display_port: 8097                          
+           display_server: http://localhost              
+          display_winsize: 256                           
+                 fineSize: 256                           
+                  gpu_ids: 0                             
+                 how_many: 50000                         
+                init_type: normal                        
+                 input_nc: 3                             
+                  isTrain: False                         	[default: None]
+                 loadSize: 256                           
+         max_dataset_size: inf                           
+                    model: pix2pix                       
+                 nThreads: 2                             
+               n_layers_D: 3                             
+                     name: IC_gll_v36                    	[default: experiment_name]
+                      ndf: 32                            
+                      ngf: 32                            
+               no_dropout: False                         
+                  no_flip: False                         
+                     norm: instance                      
+                    ntest: inf                           
+                output_nc: 3                             
+                    phase: test_all_imgs_noEN            	[default: test_292_imgs_noEN]
+           resize_or_crop: resize_and_crop               
+              results_dir: ./results/                    
+           serial_batches: False                         
+                   suffix:                               
+                  use_GAN: 1                             
+            use_condition: 1                             
+                  verbose: False                         
+                    w_gan: 0.03                          
+                     w_tv: 1                             
+                    w_vgg: 1                             
+          which_direction: AtoB                          
+              which_epoch: latest                        
+         which_model_netD: basic                         
+         which_model_netG: gll                           
+----------------- End -------------------

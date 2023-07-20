@@ -1,0 +1,14 @@
+
+python3 train.py --dataroot ./datasets/WHU_IIP/ --name WHU_IIP_ps2gan --model per_cycle_gan --no_dropout --gpu_ids 0  --display_id 0 --dataset_mode aligned
+
+python3 train.py --dataroot ./datasets/WHU_IIP/ --name WHU_IIP_csgan --model per_cycle_gan --no_dropout --gpu_ids 1  --display_id 0 --dataset_mode aligned
+
+
+python3 test.py --dataroot ./datasets/WHU_IIP/ --name WHU_IIP_syn_loss_0.7_1 --phase test --no_dropout --display_id 0 --how_many 600 --dataset_mode aligned
+
+python3 train.py --dataroot ./datasets/WHU_IIP/ --name WHU_IIP_ps2gan --model per_cycle_gan --no_dropout --gpu_ids 0  --display_id 0 --dataset_mode aligned
+
+
+
+
+
