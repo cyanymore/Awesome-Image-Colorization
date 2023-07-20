@@ -18,7 +18,7 @@
 **TODO: collect more related papers. Contributions are welcome.**
 
 ## <font color =red size=4>**Paired Colorization Networks(CNN)**</font>
-
+1. Infrared Colorization Using Deep Convolutional Neural Networks(ICMLA 2016) [官方网站](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690)
 
 
 
