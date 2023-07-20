@@ -17,8 +17,7 @@
 
 **TODO: collect more related papers. Contributions are welcome.**
 
-#[ Image-Colorization-Papers]
-
+## <font color =red size=4>**Paired Colorization Networks(CNN)**</font>
 
 
 
