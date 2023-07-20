@@ -102,6 +102,20 @@
 15. Multi-crop Contrastive Learning for Unsupervised Image-to-Image Translation(arXiv 2023) [Pdf](https://arxiv.org/ftp/arxiv/papers/2304/2304.12235.pdf)
 16. Disentangled Contrastive Image Translation for Nighttime Surveillance(TIP 2023) [Pdf](https://arxiv.org/pdf/2307.05038.pdf)
 
+## <font color =red size=4>**Reference-based Colorization Networks**</font>
+1. Gray2ColorNet Transfer More Colors from Reference Image(ACM MM 2020) [Pdf](https://dl.acm.org/doi/abs/10.1145/3394171.3413594) [Code](https://github.com/CV-xueba/Gray2ColorNet)
+2. Reference-Based Sketch Image Colorization using Augmented-Self Reference and Dense Semantic Correspondence(CVPR 2020) [Pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lee_Reference-Based_Sketch_Image_Colorization_Using_Augmented-Self_Reference_and_Dense_Semantic_CVPR_2020_paper.pdf) [Code](https://github.com/Jungjaewon/Reference_based_Skectch_Image_Colorization)
+3. Stylization-Based Architecture for Fast Deep Exemplar Colorization(CVPR 2020) [Pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xu_Stylization-Based_Architecture_for_Fast_Deep_Exemplar_Colorization_CVPR_2020_paper.pdf) [Code](https://github.com/ae1999/Stylization-Based-Colorization-with-Deep-Learning)
+4. SCGAN Saliency Map-Guided Colorization With Generative Adversarial Network(TCSVT 2020) [Pdf](https://ieeexplore.ieee.org/abstract/document/9257445) [Code](https://github.com/zhaoyuzhi/Semantic-Colorization-GAN)
+5. Color2Embed: Fast Exemplar-Based Image Colorization using Color Embeddings(arXiv 2021) [Pdf](https://arxiv.org/pdf/2106.08017.pdf) [Code](https://github.com/zhaohengyuan1/Color2Embed)
+6. Globally and Locally Semantic Colorization via Exemplar-Based Broad-GAN(TIP 2021) [Pdf](https://ieeexplore.ieee.org/abstract/document/9566701)
+7. Yes, “Attention Is All You Need”, for Exemplar based Colorization(ACM MM 2021) [Pdf](https://dl.acm.org/doi/abs/10.1145/3474085.3475385) [Code](https://github.com/wangyins/transformer-for-image-colorization)
+8. Eliminating Gradient Conflict in Reference-based Line-Art Colorization(ECCV 2022) [Pdf](https://link.springer.com/chapter/10.1007/978-3-031-19790-1_35) [Code](Eliminating Gradient Conflict in Reference-based Line-Art Colorization)
+9. Semantic-Sparse Colorization Network for Deep Exemplar-based Colorization(ECCV 2022) [Pdf](https://link.springer.com/chapter/10.1007/978-3-031-20068-7_29) 
+10. CFFT-GAN Cross-domain Feature Fusion Transformer for Exemplar-based Image Translation(AAAI 2023) [Pdf](https://ojs.aaai.org/index.php/AAAI/article/view/25279) 
+11. Masked and Adaptive Transformer for Exemplar Based Image Translation(arXiv 2023) [Pdf](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Masked_and_Adaptive_Transformer_for_Exemplar_Based_Image_Translation_CVPR_2023_paper.pdf) [Code](https://github.com/AiArt-HDU/MATEBIT)
+12. Unsupervised Deep Exemplar Colorization via Pyramid Dual Non-local Attention(TIP 2023) [Pdf](https://ieeexplore.ieee.org/abstract/document/10183846) [Code](https://github.com/wd1511/PDNLA-Net)
+
 
 
 () [Pdf]() [Code]()
