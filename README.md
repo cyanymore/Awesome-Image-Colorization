@@ -1,5 +1,5 @@
 # Awesome-Image-Colorization
-This repository contains a curated list of papers, code, and other resources related to the automatic colorization of images using deep learning and computer vision techniques. 
+**This repository contains a curated list of papers, code, and other resources related to the automatic colorization of images using deep learning and computer vision techniques.**
 
 **:blush: Image-Colorization-Papers** 
 
@@ -17,7 +17,7 @@ This repository contains a curated list of papers, code, and other resources rel
 
 **TODO: collect more related papers. Contributions are welcome.**
 
-
+*[Image-Colorization-Papers]
 
 
 
