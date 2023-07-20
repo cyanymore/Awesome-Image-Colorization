@@ -17,7 +17,7 @@
 
 **TODO: collect more related papers. Contributions are welcome.**
 
-() [Pdf]() [Code]()
+
 ## <font color =red size=4>**Paired Colorization Networks(CNN)**</font>
 1. Infrared Colorization Using Deep Convolutional Neural Networks(ICMLA 2016) [Pdf](https://arxiv.org/pdf/1604.02245.pdf)
 2. Colorful Image Colorization(ECCV 2016) [Pdf](https://arxiv.org/pdf/1603.08511.pdf) [Code](https://github.com/richzhang/colorization) 
@@ -49,6 +49,40 @@
 16. Exploring Efficient and Effective Generative Adversarial Network for Thermal Infrared Image Colorization(Complex & Intelligent Systems 2023) [Pdf](https://link.springer.com/article/10.1007/s40747-023-01079-3)
 17. StawGAN: Structural-Aware Generative Adversarial Networks for Infrared Image Translation(arXiv 2023) [Pdf](https://arxiv.org/pdf/2305.10882.pdf) [Code](https://github.com/LuigiSigillo/StawGAN)
 18. Panoptic-Level Image-to-Image Translation for Object Recognition and Visual Odometry Enhancement(TCSVT 2023) [Pdf](https://ieeexplore.ieee.org/abstract/document/10159430)
+
+() [Pdf]() [Code]()
+## <font color =red size=4>**Two-sided Unpaired Colorization Networks(GAN)**</font>
+1. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(ICCV 2017) [Pdf](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf) [Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+2. Recycle-GAN Unsupervised Video Retargeting(ECCV 2018) [Pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf) [Code]()
+3. Colorizing Near Infrared Images through a Cyclic Adversarial Approach of Unpaired Samples(CVPRW 2019) [Pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/PBVS/Mehri_Colorizing_Near_Infrared_Images_Through_a_Cyclic_Adversarial_Approach_of_CVPRW_2019_paper.pdf) [Code](https://github.com/Rm1n90/Colorizing-Infrared-Images)
+4. NIR to RGB Domain Translation Using Asymmetric Cycle Generative Adversarial Networks(IEEE Access 2019) [Pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8790680)
+5. Mocycle-GAN Unpaired Video-to-Video Translation(arXiv 2019) [Pdf](https://arxiv.org/pdf/1908.09514.pdf)
+6. Context-Aware Colorization of Gray-Scale Images Utilizing a Cycle-Consistent Generative Adversarial Network Architecture(Neurocomputing 2020) [Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231220306093)
+7. GAN-Based Day-to-Night Image Style Transfer for Nighttime Vehicle Detection(TITS 2020) [Pdf](https://ieeexplore.ieee.org/abstract/document/8950077) [Code](https://github.com/yuanmengzhixing/AugGAN-Cross-Domain-Adaptation-with-GAN-based-DataAugmentation)
+8. PCSGAN Perceptual Cyclic-Synthesized Generative Adversarial Networks for Thermal and NIR to Visible Image Transformation(Neurocomputing 2020) [Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231220310936) [Code](https://github.com/KishanKancharagunta/PCSGAN)
+9. Unsupervised object detection via LWIR/RGB translation(CVPRW 2020) [Pdf](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w6/Abbott_Unsupervised_Object_Detection_via_LWIRRGB_Translation_CVPRW_2020_paper.pdf)
+10. Deep Learning Thermal Image Translation for Night Vision(ACM TIST) [Pdf](https://dl.acm.org/doi/abs/10.1145/3426239)
+11. U-GAT-IT Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation(ICLR 2020) [Pdf](https://openreview.net/forum?id=BJlZ5ySKPH) [Code](https://github.com/taki0112/UGATIT)
+12. SPA-GAN Spatial Attention GAN for Image-to-Image Translation(TMM 2020) [Pdf](https://ieeexplore.ieee.org/ielaam/6046/9296985/9007501-aam.pdf)
+13. Reusing Discriminators for Encoding Towards Unsupervised Image-to-Image Translation(CVPR 2020) [Pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Reusing_Discriminators_for_Encoding_Towards_Unsupervised_Image-to-Image_Translation_CVPR_2020_paper.pdf) [Code](https://github.com/alpc91/NICE-GAN-pytorch)
+14. CSGAN Cyclic-Synthesized Generative Adversarial Networks for image-to-image transformation(Expert Systems with Applications 2021) [Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0957417420310940) [Code](https://github.com/KishanKancharagunta/CSGAN)
+15. CDGAN: Cyclic Discriminative Generative Adversarial Networks for image-to-image transformation(Journal of Visual Communication and Image Representation 2022) [Pdf](https://www.sciencedirect.com/science/article/abs/pii/S1047320321002522) [Code](https://github.com/KishanKancharagunta/CDGAN)
+16. SAR Image Colorization Using Multidomain Cycle-Consistency Generative Adversarial Network(LGRS 2021) [Pdf](https://ieeexplore.ieee.org/abstract/document/8985381)
+17. AttentionGAN Unpaired Image-to-Image Translation using Attention-Guided Generative Adversarial Networks(TNNLS 2021) [Pdf]() [Code](https://github.com/Ha0Tang/AttentionGAN)
+18. Unsupervised Generative Adversarial Networks with Cross-model Weight Transfer Mechanism for Image-to-image Translation(ICCVW 2021) [Pdf](https://openaccess.thecvf.com/content/ICCV2021W/AIM/papers/Lai_Unsupervised_Generative_Adversarial_Networks_With_Cross-Model_Weight_Transfer_Mechanism_for_ICCVW_2021_paper.pdf) [Code](https://github.com/lxg0387/CWT-GAN)
+19. Dual Contrastive Learning for Unsupervised Image-to-Image Translation(CVPRW 2021) [Pdf](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/papers/Han_Dual_Contrastive_Learning_for_Unsupervised_Image-to-Image_Translation_CVPRW_2021_paper.pdf) [Code](https://github.com/JunlinHan/DCLGAN)
+20. A fully-automatic image colorization scheme using improved CycleGAN with skip connections(Multimedia Tools and Applications 2021) [Pdf](https://link.springer.com/article/10.1007/s11042-021-10881-5) [Code](https://github.com/huangshanshan33/Image-Colorization-CycleGAN)
+21. Colorization of fusion image of infrared and visible images based on parallel generative adversarial network approach(Journal of Intelligent & Fuzzy Systems 2021) [Pdf](http://eprints.bournemouth.ac.uk/35970/1/final%20submission.pdf)
+22. I2V-GAN Unpaired Infrared-to-Visible Video Translation(ACM MM 2021) [Pdf](https://dl.acm.org/doi/abs/10.1145/3474085.3475445) [Code](https://github.com/BIT-DA/I2V-GAN)
+23. Thermal Infrared Image Colorization for Nighttime Driving Scenes With Top-Down Guided Attention(TITS 2022) [Pdf](https://ieeexplore.ieee.org/abstract/document/9703249) [Code](https://github.com/FuyaLuo/PearlGAN/)
+24. MobileAR-GAN MobileNet-Based Efficient Attentive Recurrent Generative Adversarial Network for Infrared-to-Visual Transformation(TIM 2022) [Pdf](https://ieeexplore.ieee.org/abstract/document/9754574) [Code](https://github.com/GANGREEK/MobileAR-GAN)
+25. ROMA Cross-Domain Region Similarity Matching for Unpaired Nighttime Infrared to Daytime Visible Video Translation(ACM International Conference on Multimedia 2022) [Pdf](https://dl.acm.org/doi/abs/10.1145/3503161.3548221)
+26. An Unpaired Thermal Infrared Image Translation Method Using GMA-CycleGAN(Remote Sensing 2023) [Pdf](https://www.mdpi.com/2072-4292/15/3/663)
+27. CRPGAN Learning image-to-image translation of two unpaired images by cross-attention mechanism and parallelization strategy(PLOS ONE 2023) [Pdf](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0280073)
+28. CyTran A cycle-consistent transformer with multi-level consistency for non-contrast to contrast CT translation(Neurocomputing 2023) [Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0925231223003181) [Code](https://github.com/Gid-Git/cyclic-transformer)
+29. CSTGAN Cycle Swin Transformer GAN for Unpaired Infrared Image Colorization(CCRIS 2023) [Pdf](https://dl.acm.org/doi/abs/10.1145/3562007.3562053)
+30. QEMCGAN: Quantized Evolutionary Gradient Aware Multiobjective Cyclic GAN for Medical Image Translation(JBHI 2023) [Pdf](https://ieeexplore.ieee.org/abstract/document/10091835)
+31. InvolutionGAN: lightweight GAN with involution for unsupervised image-to-image translation(Neural Computing and Applications 2023) [Pdf](https://www.springer.com/journal/521) 
 
 
 
