@@ -50,7 +50,6 @@
 17. StawGAN: Structural-Aware Generative Adversarial Networks for Infrared Image Translation(arXiv 2023) [Pdf](https://arxiv.org/pdf/2305.10882.pdf) [Code](https://github.com/LuigiSigillo/StawGAN)
 18. Panoptic-Level Image-to-Image Translation for Object Recognition and Visual Odometry Enhancement(TCSVT 2023) [Pdf](https://ieeexplore.ieee.org/abstract/document/10159430)
 
-() [Pdf]() [Code]()
 ## <font color =red size=4>**Two-sided Unpaired Colorization Networks(GAN)**</font>
 1. Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(ICCV 2017) [Pdf](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf) [Code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 2. Recycle-GAN Unsupervised Video Retargeting(ECCV 2018) [Pdf](https://openaccess.thecvf.com/content_ECCV_2018/papers/Aayush_Bansal_Recycle-GAN_Unsupervised_Video_ECCV_2018_paper.pdf) [Code]()
@@ -85,11 +84,27 @@
 31. InvolutionGAN: lightweight GAN with involution for unsupervised image-to-image translation(Neural Computing and Applications 2023) [Pdf](https://www.springer.com/journal/521) 
 
 
+## <font color =red size=4>**One-sided Unpaired Colorization Networks(GAN)**</font>
+1. One-sided unsupervised domain mapping(NIPS 2017) [Pdf](https://proceedings.neurips.cc/paper_files/paper/2017/file/59b90e1005a220e2ebc542eb9d950b1e-Paper.pdf) [Code](https://github.com/sagiebenaim/DistanceGAN)
+2. Geometry-consistent generative adversarial networks for one-sided unsupervised domain mapping(CVPR 2019) [Pdf](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Geometry-Consistent_Generative_Adversarial_Networks_for_One-Sided_Unsupervised_Domain_Mapping_CVPR_2019_paper.pdf) [Code](https://github.com/hufu6371/GcGAN)
+3. Contrastive Learning for Unpaired Image-to-Image Translation(ECCV 2020) [Pdf](https://link.springer.com/chapter/10.1007/978-3-030-58545-7_19) [Code](https://github.com/taesungp/contrastive-unpaired-translation)
+4. Instance-wise Hard Negative Example Generation for Contrastive Learning in Unpaired Image-to-Image Translation(ICCV 2021) [Pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Instance-Wise_Hard_Negative_Example_Generation_for_Contrastive_Learning_in_Unpaired_ICCV_2021_paper.pdf) [Code](https://github.com/WeilunWang/NEGCUT)
+5. Memory-guided Unsupervised Image-to-image Translation(CVPR 2021) [Pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Jeong_Memory-Guided_Unsupervised_Image-to-Image_Translation_CVPR_2021_paper.pdf)
+6. Rethinking the Truly Unsupervised Image-to-Image Translation(ICCV 2021) [Pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Baek_Rethinking_the_Truly_Unsupervised_Image-to-Image_Translation_ICCV_2021_paper.pdf) [Code](https://github.com/clovaai/tunit)
+7. The spatially-correlative loss for various image translation tasks(CVPR 2021) [Pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_The_Spatially-Correlative_Loss_for_Various_Image_Translation_Tasks_CVPR_2021_paper.pdf) [Code](https://github.com/lyndonzheng/F-LSeSim)
+8. Alleviating Semantics Distortion in Unsupervised Low-Level Image-to-Image Translation via Structure Consistency Constraint(CVPR 2022) [Pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Alleviating_Semantics_Distortion_in_Unsupervised_Low-Level_Image-to-Image_Translation_via_Structure_CVPR_2022_paper.pdf) [Code](https://github.com/CR-Gjx/SCC)
+9. Exploring Negatives in Contrastive Learning for Unpaired Image-to-Image Translation(ACM MM 2022) [Pdf](https://dl.acm.org/doi/abs/10.1145/3503161.3547802) [Code](https://github.com/YupeiLin2388/Exploring-Negatives-in-Contrastive-Learning-for-Unpaired-Image-to-Image-Translation)
+10. Exploring Patch-wise Semantic Relation for Contrastive Learning in Image-to-Image Translation Tasks(CVPR 2022) [Pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Jung_Exploring_Patch-Wise_Semantic_Relation_for_Contrastive_Learning_in_Image-to-Image_Translation_CVPR_2022_paper.pdf) [Code](https://github.com/jcy132/Hneg_SRC)
+11. Multi-feature contrastive learning for unpaired image-to-image translation(Complex & Intelligent Systems 2022) [Pdf](https://link.springer.com/article/10.1007/s40747-022-00924-1) [Code](https://github.com/gouayao/MCL)
+12. QS-Attn Query-Selected Attention for Contrastive Learning in I2I Translation(CVPR 2022) [Pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_QS-Attn_Query-Selected_Attention_for_Contrastive_Learning_in_I2I_Translation_CVPR_2022_paper.pdf) [Code](https://github.com/sapphire497/query-selected-attention)
+13. Colorization of infrared images based on feature fusion and contrastive learning(Optics and Lasers in Engineering 2023) [Pdf](https://www.sciencedirect.com/science/article/abs/pii/S0143816622004456) [Code](https://github.com/chenlingqiang/IR-colorization)
+14. Contrastive learning with feature fusion for unpaired thermal infrared image colorization(Optics and Lasers in Engineering 2023) [Pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443105)
+15. Multi-crop Contrastive Learning for Unsupervised Image-to-Image Translation(arXiv 2023) [Pdf](https://arxiv.org/ftp/arxiv/papers/2304/2304.12235.pdf)
+16. Disentangled Contrastive Image Translation for Nighttime Surveillance(TIP 2023) [Pdf](https://arxiv.org/pdf/2307.05038.pdf)
 
 
 
-
-
+() [Pdf]() [Code]()
 
 
 
